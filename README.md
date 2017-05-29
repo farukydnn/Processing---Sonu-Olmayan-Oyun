@@ -5,4 +5,4 @@ Engellerden geçtikçe hızlanan oynayış, Klavye kontrolü ile 3 yöne hareket
 
 	Oyun içinde arkaplan müziğinin çalması için Processing üzerinden Sound kütüphanesinin yüklenmiş olması gerekir.
 
-![Oyun İçi](screenshot\gameplay.png)
+![Oyun İçi](PirateRush\screenshot\gameplay.png)
